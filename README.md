@@ -7,7 +7,6 @@ Project test containing a README file 🚀
 ## Technologies used
 - HTML
 - CSS
-- JS
 
 ## How to use?
 
